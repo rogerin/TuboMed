@@ -1,0 +1,23 @@
+body {
+	background: #F3F3F3;
+	color: #0a0a0a;
+}
+header {
+	margin-top: 50px;
+}
+header form {
+	margin-top: 30px;
+}
+.emp {
+	text-align: justify;
+}
+
+.abaixo {
+	margin-top: 20px;
+}
+.muito-abaixo{
+	margin-top: 200px;
+}
+.meio-abaixo{
+	margin-top: 150px;
+}
